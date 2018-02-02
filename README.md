@@ -1,0 +1,2 @@
+# utl_remove_common_records_in_table_1_and_table_2_from_each_table
+Remove common records in both table 1 and table 2 from each table. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
